@@ -1,9 +1,0 @@
-<script>start("/Users/ktn/ethereum-wallet copy/src/server/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("controllers","controllers",1,96,"96 B",1737422413,"1/20/25, 8:20:13 PM");</script>
-<script>addRow("middleware","middleware",1,96,"96 B",1736132900,"1/5/25, 10:08:20 PM");</script>
-<script>addRow("models","models",1,96,"96 B",1737422439,"1/20/25, 8:20:39 PM");</script>
-<script>addRow("routes","routes",1,96,"96 B",1737422447,"1/20/25, 8:20:47 PM");</script>
-<script>addRow("utils","utils",1,160,"160 B",1737422527,"1/20/25, 8:22:07 PM");</script>
-<script>addRow("db.js","db.js",0,301,"301 B",1737422736,"1/20/25, 8:25:36 PM");</script>
-<script>addRow("index.js","index.js",0,804,"804 B",1737422900,"1/20/25, 8:28:20 PM");</script>
