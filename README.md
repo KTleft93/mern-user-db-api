@@ -47,12 +47,12 @@ Ensure you have the following installed:
 4. Start the server
    npm start
 
-## 🛠️ **Project Structure
+## 🛠️ Project Structure
 📁 server    
  ┣ 📂 controllers  // API logic
  ┣ 📂 middleware  // JWT 
  ┣ 📂 models       // User Model
  ┣ 📂 routes       // API endpoints
  ┣ 📂 utils        // Helper functions 
- ┗ server.js  
-db.js // Database configuration
+ ┗ db.js  // Database config
+
